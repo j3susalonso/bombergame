@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="display">60s to place 5 bombs.</string>
+    <string name="desc">bomb</string>
+    <string name="app_name">BomberGame</string>
+
+</resources>
